@@ -1,12 +1,8 @@
----
-typora-root-url: image_file
----
-
 # 阅读知识点汇总+单词汇总
 
 [TOC]
 
-<img src="/../image_file/cat1.jpg" alt="猫" style="zoom:60%;" />
+![猫图尝试于Github上](./image_file/cat1.jpg)
 
 ## 阅读知识点
 
