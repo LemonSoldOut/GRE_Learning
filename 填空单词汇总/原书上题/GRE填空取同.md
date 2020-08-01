@@ -12,8 +12,8 @@
 |      | symmetry             | n       | 对称（性）；匀称                                |
 |      | decay                | n/v     | 衰退，衰减；衰败；腐烂                          |
 |      | comparable           | adj     | 可比较的；同等的                                |
-|      | balance              | adj     | 相等；平衡                                      |
-|      | counterpart          | adj     | 相等                                            |
+|      | balance              | n       | 相等；平衡                                      |
+|      | counterpart          | n       | 相等                                            |
 |      | diametric            | adj     | **截然相反的**；直径的                          |
 |      | deterioration        | n       | 恶化；退化                                      |
 |      | client               | n       | 客户；顾客                                      |
